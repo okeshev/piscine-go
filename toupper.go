@@ -1,6 +1,5 @@
 package piscine
 
-}
 func ToUpper(s string) string {
 	res := ""
 	for _, r := range s {
