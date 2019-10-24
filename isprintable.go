@@ -1,5 +1,3 @@
-
-Learn more or give us feedback
 package piscine
 
 func IsPrintable(str string) bool {
